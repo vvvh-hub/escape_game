@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82ccab30cf300614cac7060647eb349a, type: 3}
+  m_Name: SoundAssets
+  m_EditorClassIdentifier: 
+  RobotGetHurt: {fileID: 8300000, guid: 80f936bbffba93847a90d915e0f0463e, type: 3}
+  RobotDead: {fileID: 8300000, guid: d0a929e1346923842bafa0538aba45df, type: 3}
+  HumanGetHurt: {fileID: 8300000, guid: b8c352403631017489f0c65eaee51a99, type: 3}
+  ButtonClicked: {fileID: 8300000, guid: 057a9a264549ac9459f3778c30723067, type: 3}
+  GameOver: {fileID: 8300000, guid: d2b118d558b20a54abf0e442f26b59da, type: 3}
+  MagicCollapse: {fileID: 8300000, guid: efba5dafa73c967469322868dcb402aa, type: 3}
+  TheInvisibleDeath: {fileID: 8300000, guid: c85c88239014e2e4397b75963775345e, type: 3}
